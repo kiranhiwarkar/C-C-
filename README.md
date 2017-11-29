@@ -1,2 +1,2 @@
-# C-C-
-Personal C++ Program Repo
+# Notes
+Personal C++ Program Repo. Used for leaning the concepts.
